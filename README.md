@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 [image2]: ./examples/undi_image.png "Road Transformed"
 [image3]: ./examples/gradient.png "Binary Example"
 [image4]: ./examples/trans.jpg "Warp Example"
-[image5]: ./examples/color_fit_lines.png "Fit Visual"
+[image5]: ./examples/color_fit_lines.jpg "Fit Visual"
 [image6]: ./examples/draw.png "Output"
 
 
